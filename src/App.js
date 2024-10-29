@@ -43,12 +43,12 @@ function App() {
         currency={currency}
       />
       <Home currency={currency} locale={locale} />
-      <input
+      {/* <input
         type="text"
         placeholder="أدخل النص هنا" // Arabic placeholder text
         lang="ar"
         autoComplete="off"
-      />
+      /> */}
       <Footer />
     </div>
   );
