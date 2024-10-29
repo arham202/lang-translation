@@ -1,0 +1,16 @@
+{
+  "header": {
+    "title": "متجر",
+    "welcome": "مرحبا بكم في متجرنا",
+    "currency": "العملة"
+  },
+  "product": {
+    "price": "السعر: {{price}} {{currency}}",
+    "buy_now": "اشتري الآن",
+    "description": "هذا منتج ذو جودة عالية متوفر بسعر مناسب."
+  },
+  "footer": {
+    "contact": "تواصل معنا",
+    "rights": "جميع الحقوق محفوظة"
+  }
+}

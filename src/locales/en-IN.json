@@ -1,0 +1,16 @@
+{
+  "header": {
+    "title": "E-Shop",
+    "welcome": "Welcome to E-Shop",
+    "currency": "Currency"
+  },
+  "product": {
+    "price": "Price: {{price}} {{currency}}",
+    "buy_now": "Buy Now",
+    "description": "This is a quality product available at an affordable price."
+  },
+  "footer": {
+    "contact": "Contact Us",
+    "rights": "All rights reserved"
+  }
+}
